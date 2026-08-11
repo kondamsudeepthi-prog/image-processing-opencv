@@ -81,7 +81,21 @@ image-processing-opencv/
    pip install -r requirements.txt
 3. Run the notebook cells sequentially.
    ```
+ ## 📊 Results
 
+The project generates visual outputs for image analysis and frequency-domain processing.
+
+### Grayscale Histogram
+
+![Grayscale Histogram](screenshots/grayscale_histogram.png)
+
+### Fourier Magnitude Spectrum
+
+![Fourier Magnitude Spectrum](screenshots/fourier_magnitude.png)
+
+### High-Pass Filtering
+
+![High-Pass Filtering](screenshots/hpf_jet_result.png)
 
 ## 📦 Requirements
 
