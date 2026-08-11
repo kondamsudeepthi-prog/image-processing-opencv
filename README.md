@@ -54,12 +54,13 @@ Processed Output
 
 ## 📁 Project Structure
 
-```
+```text
 image-processing-opencv/
 │
 ├── Image_Processing_OpenCV.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 ## ▶️ How to Run
 
@@ -67,14 +68,14 @@ image-processing-opencv/
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-
+   ```
 ## 📦 Requirements
 
 ```text
 opencv-python
 numpy
 matplotlib
-
+```
 ## 🎓 Key Learning Outcomes
 
 - Practical experience with OpenCV-based image processing
