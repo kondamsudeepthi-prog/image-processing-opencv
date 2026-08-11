@@ -63,7 +63,6 @@ Negative & Intensity Transformation
     ↓
 Processed Output
 ```
-
 ## 📁 Project Structure
 
 ```text
@@ -71,7 +70,12 @@ image-processing-opencv/
 │
 ├── Image_Processing_OpenCV.ipynb
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+│
+└── screenshots/
+    ├── grayscale_histogram.png
+    ├── fourier_magnitude.png
+    └── hpf_jet_result.png
 ```
 
 ## ▶️ How to Run
