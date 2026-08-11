@@ -24,7 +24,7 @@ This project demonstrates core image processing operations including grayscale c
 - Image rotation and flipping
 - Grayscale and BGR histogram analysis
 - Fourier Transform and Magnitude Spectrum
-- High-Pass Filtering with JET visualization
+- High-Pass Filtering with JET Colormap Visualization
 - Negative image transformation
 - Intensity transformation
 
@@ -64,11 +64,24 @@ image-processing-opencv/
 
 ## ▶️ How to Run
 
-1. Open `Image_Processing_OpenCV.ipynb` in Google Colab.
-2. Install the required dependencies:
-   ```bash
+1. Open Image_Processing_OpenCV.ipynb in Google Colab.
+2. Install the dependencies:
    pip install -r requirements.txt
+3. Run the notebook cells sequentially.
    ```
+## 📊 Results
+
+The project generates visual outputs for:
+
+- Original and grayscale images
+- BGR channel analysis
+- Image transformations
+- Grayscale and BGR histograms
+- Fourier magnitude spectrum
+- High-Pass Filtered images
+- Negative image transformation
+- Intensity transformation
+
 ## 📦 Requirements
 
 ```text
