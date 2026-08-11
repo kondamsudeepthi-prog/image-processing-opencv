@@ -6,6 +6,18 @@ A practical image processing project using Python and OpenCV, covering fundament
 
 This project demonstrates core image processing operations including grayscale conversion, BGR channel analysis, image transformations, histogram analysis, Fourier Transform, Magnitude Spectrum, High-Pass Filtering, and intensity transformation.
 
+## 🎯 Project Objective
+
+To implement and understand fundamental image processing techniques using OpenCV, including spatial-domain transformations, histogram analysis, and frequency-domain processing.
+
+The project aims to build practical understanding of image manipulation, analysis, filtering, and enhancement techniques.
+
+## 🔗 Notebook
+
+The complete implementation is available in the Jupyter Notebook:
+
+`Image_Processing_OpenCV.ipynb`
+
 ## 🛠️ Technologies Used
 
 - Python
