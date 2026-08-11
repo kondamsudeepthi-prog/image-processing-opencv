@@ -50,6 +50,7 @@ High-Pass Filtering
 Negative & Intensity Transformation
     ↓
 Processed Output
+```
 
 ## 📁 Project Structure
 
