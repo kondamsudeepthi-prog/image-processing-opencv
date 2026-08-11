@@ -81,7 +81,7 @@ image-processing-opencv/
    pip install -r requirements.txt
 3. Run the notebook cells sequentially.
    ```
- ## 📊 Results
+## 📊 Results
 
 The project generates visual outputs for image analysis and frequency-domain processing.
 
