@@ -83,16 +83,19 @@ image-processing-opencv/
    ```
 ## 📊 Results
 
-The project generates visual outputs for:
+The project generates visual outputs for image analysis and frequency-domain processing.
 
-- Original and grayscale images
-- BGR channel analysis
-- Image transformations
-- Grayscale and BGR histograms
-- Fourier magnitude spectrum
-- High-Pass Filtered images
-- Negative image transformation
-- Intensity transformation
+### Grayscale Histogram
+
+![Grayscale Histogram](screenshots/grayscale_histogram.png)
+
+### Fourier Magnitude Spectrum
+
+![Fourier Magnitude Spectrum](screenshots/fourier_magnitude.png)
+
+### High-Pass Filtering
+
+![High-Pass Filtering](screenshots/hpf_jet_result.png)
 
 ## 📦 Requirements
 
