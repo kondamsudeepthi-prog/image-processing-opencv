@@ -53,7 +53,7 @@ Processed Output
 
 ## 📁 Project Structure
 
-```text
+```
 image-processing-opencv/
 │
 ├── Image_Processing_OpenCV.ipynb
