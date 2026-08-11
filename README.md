@@ -38,7 +38,7 @@ The complete implementation is available in the Jupyter Notebook:
 - Fourier Transform and Magnitude Spectrum
 - High-Pass Filtering with JET Colormap Visualization
 - Negative image transformation
-- Intensity transformation
+- Intensity transformatio
 
 ## 🔄 Workflow
 
